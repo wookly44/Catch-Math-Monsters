@@ -1,6 +1,6 @@
 # 캐치! 수학 몬스터즈<img src="https://github.com/user-attachments/assets/ad32e9d4-6c1f-4333-8f7a-7ff60ed85abf" align=left width=70>
 
-> 디지털 교과서를 이용한 수학 학습 사이트 ✍️
+> 디지털 교과서를 이용한 수학 학습 사이트 ✍️ 
 
 <br />
 
